@@ -1,0 +1,162 @@
+
+	body{
+		font-family: 'Open Sans', sans-serif;
+		color: #252525;
+		font-size: 0.85em;
+		padding: 0;
+		margin: 0;
+	}	
+	
+	header section{
+		text-align: center;
+		padding: 100px;
+		padding-left: 0;
+		padding-right: 0;
+		
+		
+	}
+	
+	section{
+		padding: 150px;
+		padding-left: 0;
+		padding-right: 0;
+		border-bottom: 1px solid #ebebeb;
+	}
+	
+	h1, h2{
+		font-size: 3.15em;
+		line-height: 1.3em;
+		font-weight: 300;
+		
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	
+	h1 a{
+		text-decoration: none;
+		color: black;
+	}
+	
+	h2{
+		font-size: 2.1em;
+		font-weight: 300;
+		
+	}
+	
+	h3{
+		font-size: 0.85em;
+		line-height: 2.17em;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		
+	}
+	
+	p{
+		font-weight: 300;
+		color: #666666;
+		font-size: 1.2em;
+		line-height: 1.68em;
+		
+	}
+	
+	em{
+		color: #4a90e2;
+		font-style: normal;
+	}
+	
+	.btn{
+		background-color: #4a90e2;
+		color: white;
+		display: inline-block;
+		border-radius: 4px;
+		padding: 7px 25px;
+		font-size: 0.85em;
+		line-height: 2.17em;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		cursor: pointer;
+	}
+	
+	.btn-default{
+		background-color: white;
+		color: #252525;
+		display: inline-block;
+		border-radius: 4px;
+		border: 1px solid #CCC;
+		padding: 5px 20px;
+		font-size: 0.8em;
+		line-height: 2.17em;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		cursor: pointer;
+	}
+	
+	section.grey{
+		background-color: #fafafa;
+	
+	}
+	
+	section.dark{
+		color: white;
+	background-color: #444;
+	}
+	
+	section.dark p{
+		color: white;
+	}
+	
+	
+	.right{
+		
+		width: 40%;
+		float: right;
+	}
+	
+	nav{
+		padding-top: 25px;
+	}
+	
+	nav ul{
+		list-style-type: none;
+		margin: 0;
+		
+		
+		float: right;
+	}
+	
+	nav ul li{
+		display: inline;
+		padding-left: 10px;
+	}
+	
+	nav ul li a{
+		font-size: 0.85em;
+		line-height: 2.15em;
+		font-weight: 400;
+		text-transform: uppercase;
+		letter-spacing: 0.11em;
+		font-variant-ligatures: common-ligatures;
+		color: #666666;
+		cursor: pointer;
+	}
+	
+	nav h1{
+		font-size: 0.85em;
+		line-height: 2.15em;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		font-variant-ligatures: common-ligatures;
+		color: #000;
+		cursor: pointer;
+		float: left;
+		margin-top: 0;
+	}
+	
+	.container{
+		width: 900px;
+		margin: 0 auto;
+	}
